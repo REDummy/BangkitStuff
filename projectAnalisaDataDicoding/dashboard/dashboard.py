@@ -97,6 +97,7 @@ def main():
     st.pyplot()
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
+
 if __name__ == '__main__':
     main()
 
